@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Sahib Chouhan!
 
-<!--
-**Sahib2306/Sahib2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student | AI & ML Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate learner specializing in **Artificial Intelligence** and **Machine Learning**. Currently pursuing my BCA, I’m eager to apply my skills to real-world challenges and build solutions that make an impact.
+
+- 🔬 **Specialization:** Artificial Intelligence & Machine Learning
+- 💻 **Languages & Tools:** Python | Java | Web Development | Data Visualization
+- 🌐 **Frontend Skills:** Hands-on experience in modern web technologies
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sahib-chouhan-32a337337/)
+
+---
+
+## ⚡ Fun Fact
+
+🚗 I’m a car enthusiast—always up for a chat about the latest in automotive tech!
+
+---
+
+> _“Always learning, always building.”_
