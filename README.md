@@ -7,7 +7,7 @@
 I’m a passionate learner specializing in **Artificial Intelligence** and **Machine Learning**. Currently pursuing my BCA, I’m eager to apply my skills to real-world challenges and build solutions that make an impact.
 
 - 🔬 **Specialization:** Artificial Intelligence & Machine Learning
-- 💻 **Languages & Tools:** Python | Java | Web Development | Data Visualization
+- 💻 **Languages & Tools:** Python | Java | C | C++ | Web Development | Data Visualization
 - 🌐 **Frontend Skills:** Hands-on experience in modern web technologies
 
 ---
