@@ -14,7 +14,7 @@ I’m a passionate learner specializing in **Artificial Intelligence** and **Mac
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sahib-chouhan-32a337337/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sahib-chouhan-aab71b35a/)
 
 ---
 
