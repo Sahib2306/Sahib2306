@@ -17,6 +17,16 @@ Currently pursuing my **BCA (AI & ML Specialization)**, I enjoy building real-wo
 
 ---
 
+## 🚧 Currently Working On
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-333333?style=for-the-badge&logo=javascript&logoColor=yellow" />
+</p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -27,23 +37,6 @@ Currently pursuing my **BCA (AI & ML Specialization)**, I enjoy building real-wo
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahib2306&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib2306&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sahib2306&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
