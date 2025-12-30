@@ -43,16 +43,6 @@ Approach: Learn → Build → Analyze → Improve
 ## 🧪 Currently Working On
 <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning%20Models-🧠-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Analysis-📊-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Projects%20%26%20Practice-🚀-333333?style=for-the-badge" /> </p> <p align="center"> <em>Strengthening fundamentals, experimenting with datasets, and building practical projects.</em> </p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahib2306&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Sahib2306&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib2306&layout=compact&theme=tokyonight&hide_border=true)
-
 
 ---
 
