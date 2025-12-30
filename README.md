@@ -33,6 +33,7 @@ Approach: Learn → Build → Analyze → Improve
 <p align="center"> <em>Passionate about applying AI concepts to real-world problems and continuously improving through hands-on projects.</em> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p> <p align="center"> <em>GitHub contribution activity visualized dynamically</em> </p>
+
 ---
 
 ## ⚙️ Tech Stack
