@@ -1,29 +1,38 @@
-<!-- Header -->
+<!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <strong>Sahib Chouhan</strong></h1>
-<h3 align="center">BCA Student | AI & ML Enthusiast | Developer</h3>
+<h3 align="center">BCA (AI & ML) Student • Aspiring AI Engineer • Developer</h3>
+
+<p align="center">
+  <em>Turning curiosity into code and ideas into intelligent systems.</em>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a passionate learner focused on **Artificial Intelligence**, **Machine Learning**, and **Modern Web Development**.  
-Currently pursuing my **BCA (AI & ML Specialization)**, I enjoy building real-world projects, analyzing data, and exploring how technology can create meaningful impact.
+I'm a **BCA student specializing in Artificial Intelligence & Machine Learning**, passionate about building **real-world, data-driven solutions** and clean, scalable applications.
 
-- 🔬 **Specialization:** AI & Machine Learning  
-- 💻 **Tech Stack:** Python, Java, C, C++, HTML, CSS, JavaScript  
-- 📊 **Data Skills:** EDA, Visualization, ML Models  
-- 🌐 **Web Dev:** Building clean, responsive interfaces  
-- 🚀 Always exploring new tools, frameworks, and technologies  
+I enjoy working at the intersection of **AI, data, and web technologies**, constantly learning how intelligent systems can solve meaningful problems.
+
+- 🎓 **Degree:** BCA (AI & ML Specialization)  
+- 🤖 **Interests:** Machine Learning, Data Analysis, AI Applications  
+- 🌐 **Web Dev:** Clean, responsive, user-focused interfaces  
+- 📈 **Data:** EDA, visualization, model building & evaluation  
+- 🚀 **Mindset:** Learn → Build → Improve → Repeat  
 
 ---
 
-## 🚧 Currently Working On
+## 🚧 Currently Exploring
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack%20Development-333333?style=for-the-badge&logo=javascript&logoColor=yellow" />
 </p>
+
+- Building ML models and experimenting with datasets  
+- Improving problem-solving through hands-on projects  
+- Strengthening core CS + software fundamentals  
 
 ---
 
@@ -41,20 +50,31 @@ Currently pursuing my **BCA (AI & ML Specialization)**, I enjoy building real-wo
 
 ---
 
-## 📫 Connect with Me
+## 📌 What You’ll Find on My GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sahib-chouhan-aab71b35a/)
+- 🤖 **AI & ML projects** (from basics to applied use cases)  
+- 📊 **Data analysis notebooks** with insights & visualizations  
+- 🌐 **Web projects** focused on clean UI & usability  
+- 🧠 **Practice & experiments** as I grow as a developer  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahib-chouhan-aab71b35a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-🚗 **Car Lover** — I enjoy exploring automotive tech and the future of smart mobility.
+🚗 **Car Enthusiast** — fascinated by automotive technology, performance engineering, and the future of smart mobility.
 
 ---
 
 ## ✨ Personal Motto
 
 > _“Always learning. Always building. Always improving.”_
-
----
