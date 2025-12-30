@@ -1,80 +1,66 @@
-<!-- Profile Header -->
+<!-- ========================================================= -->
+<!--              🧠 AI DARK • CLEAN • MODERN README           -->
+<!-- ========================================================= -->
+
 <h1 align="center">👋 Hi, I'm <strong>Sahib Chouhan</strong></h1>
-<h3 align="center">BCA (AI & ML) Student • Aspiring AI Engineer • Developer</h3>
 
 <p align="center">
-  <em>Turning curiosity into code and ideas into intelligent systems.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=760&lines=BCA+Student+%28AI+%26+ML%29;Machine+Learning+%7C+Data+Science+%7C+Web+Development;Focused+on+Building+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahib2306&label=Profile+Views&color=0A66C2&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-I'm a **BCA student specializing in Artificial Intelligence & Machine Learning**, passionate about building **real-world, data-driven solutions** and clean, scalable applications.
+```yaml
+Name: Sahib Chouhan
+Education: BCA (AI & ML Specialization)
+Core Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Analysis
+  - Web Development
+Approach: Learn → Build → Analyze → Improve
+```
+<p align="center"> <em>Passionate about applying AI concepts to real-world problems and continuously improving through hands-on projects.</em> </p>
 
-I enjoy working at the intersection of **AI, data, and web technologies**, constantly learning how intelligent systems can solve meaningful problems.
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p> <p align="center"> <em>GitHub contribution activity visualized dynamically</em> </p>
+---
 
-- 🎓 **Degree:** BCA (AI & ML Specialization)  
-- 🤖 **Interests:** Machine Learning, Data Analysis, AI Applications  
-- 🌐 **Web Dev:** Clean, responsive, user-focused interfaces  
-- 📈 **Data:** EDA, visualization, model building & evaluation  
-- 🚀 **Mindset:** Learn → Build → Improve → Repeat  
+## ⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-blue?style=for-the-badge&logo=tensorflow" /> <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-0A66C2?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Web%20Development-Frontend%20%7C%20Backend-333333?style=for-the-badge&logo=javascript&logoColor=yellow" /> </p>
 
 ---
 
-## 🚧 Currently Exploring
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-333333?style=for-the-badge&logo=javascript&logoColor=yellow" />
-</p>
-
-- Building ML models and experimenting with datasets  
-- Improving problem-solving through hands-on projects  
-- Strengthening core CS + software fundamentals  
+## 🧪 Currently Working On
+<p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning%20Models-🧠-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Analysis-📊-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Projects%20%26%20Practice-🚀-333333?style=for-the-badge" /> </p> <p align="center"> <em>Strengthening fundamentals, experimenting with datasets, and building practical projects.</em> </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahib2306&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Sahib2306&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib2306&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
-## 📌 What You’ll Find on My GitHub
-
-- 🤖 **AI & ML projects** (from basics to applied use cases)  
-- 📊 **Data analysis notebooks** with insights & visualizations  
-- 🌐 **Web projects** focused on clean UI & usability  
-- 🧠 **Practice & experiments** as I grow as a developer  
+## 🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/sahib-chouhan-aab71b35a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahib-chouhan-aab71b35a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-🚗 **Car Enthusiast** — fascinated by automotive technology, performance engineering, and the future of smart mobility.
-
----
-
-## ✨ Personal Motto
-
-> _“Always learning. Always building. Always improving.”_
+## ⚡ Personal Motto
+<p align="center"> <em>“Learning continuously. Building deliberately.”</em> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
+<!-- ===================== END OF README ===================== -->
